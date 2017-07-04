@@ -31,3 +31,8 @@
   font-size: 30px;
   border-radius: 20px;
 }
+
+.ticketPrice {
+  font-size: 30px;
+  font-weight: bolder;
+}
