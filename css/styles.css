@@ -1,0 +1,33 @@
+.container-fluid {
+  width: 100%;
+}
+
+.jumbotron {
+  width: 100%;
+  text-align: center;
+  background-color: crimson;
+  color: white;
+}
+
+.row {
+  width: 100%;
+}
+
+.radio img {
+  width: 300px;
+}
+
+.form-control {
+  width: 80%;
+  display: inline-block;;
+}
+
+.btn {
+  background-color: crimson;
+  color: white;
+  margin-left: 40%;
+  width: 20%;
+  height: 100%;
+  font-size: 30px;
+  border-radius: 20px;
+}
